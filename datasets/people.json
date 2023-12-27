@@ -1,3 +1,8 @@
+{}
 {"name":"Michael"}
-{"name":"Andy", "age":30}
-{"name":"Justin", "age":19}
+{"name":"Michael", "height":80}
+{"name":"Michael", "height":80}
+{"name":"Andy", "age":30, "height":80}
+{"name":"Andy", "age":31, "height":80}
+{"name":"Justin", "age":18, "height":80}
+{"name":"Justin", "age":19, "height":80}
